@@ -47,12 +47,13 @@ class HussamSkills {
 
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" width="40%" alt="Dino coding"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hussam-jawad&theme=radical" alt="GitHub Profile Details" width="98%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hussam-jawad&theme=radical" alt="Stats" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussam-jawad&theme=radical&utcOffset=3" alt="Productive Time" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hussam-jawad&theme=radical" alt="Repos Per Language" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hussam-jawad&theme=radical" alt="Most Commit Language" width="49%"/>
 
 </div>
 
@@ -60,8 +61,8 @@ class HussamSkills {
 
 ## 🎯 What I'm Currently Working On
 
-- 🔭 Developing my skills in **C++** & **Web Development**
-- 🌱 Learning new technologies in the programming world
+- 🔭 Deepening my knowledge in **C++** & **Object-Oriented Programming (OOP)**
+- 🌱 Learning **GitHub** and **LinkedIn** networking strategies
 - 💡 Looking for exciting projects to contribute to
 - 🎓 Always learning and evolving
 
@@ -73,7 +74,7 @@ class HussamSkills {
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](YOUR_WHATSAPP_LINK)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hussam-jawad)
 
 </div>
 
@@ -90,17 +91,15 @@ class HussamSkills {
 
 ---
 
-## 🎨 Development Journey
+## 👨‍🏫 Mentorship
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Problem"/>
-&nbsp;&nbsp;&nbsp;➜&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Solution"/>
-&nbsp;&nbsp;&nbsp;➜&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Success"/>
+### Trainee under Dr. Mohammed Abu-Hadhoud
 
-**Problem → Solution → Success** 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abuhadhoud)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="15%" alt="Learning"/>
 
 </div>
 
@@ -108,11 +107,17 @@ class HussamSkills {
 
 <div align="center">
 
-### 🌟 Thanks for visiting!
+### 🌟 Thanks for visiting my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00D9FF)
+<br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="10%" alt="Wave"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Hussam-jawad&style=for-the-badge&color=00D9FF)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="80" alt="Wave"/>
+
+<br>
 
 **Happy Coding!** 💻✨
 
