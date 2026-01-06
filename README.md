@@ -100,13 +100,13 @@ class HussamSkills {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hussam-jawad&theme=radical" alt="GitHub Profile Details" width="65%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hussam-jawad&theme=radical" alt="GitHub Profile Details" width="63%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hussam-jawad&theme=radical" alt="Stats" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussam-jawad&theme=radical&utcOffset=3" alt="Productive Time" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hussam-jawad&theme=radical" alt="Stats" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussam-jawad&theme=radical&utcOffset=3" alt="Productive Time" width="30%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hussam-jawad&theme=radical" alt="Repos Per Language" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hussam-jawad&theme=radical" alt="Most Commit Language" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hussam-jawad&theme=radical" alt="Repos Per Language" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hussam-jawad&theme=radical" alt="Most Commit Language" width="30%"/>
 
 </div>
 
