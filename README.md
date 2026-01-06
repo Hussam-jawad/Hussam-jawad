@@ -41,33 +41,19 @@ class HussamSkills {
 };
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hussam-jawad&theme=radical" alt="GitHub Profile Details" width="65%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hussam-jawad&theme=radical" alt="Stats" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussam-jawad&theme=radical&utcOffset=3" alt="Productive Time" width="32%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hussam-jawad&theme=radical" alt="Repos Per Language" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hussam-jawad&theme=radical" alt="Most Commit Language" width="32%"/>
-
-</div>
-
-
-
----
-
 ## 🎯 What I'm Currently Working On
 
 - 🔭 Deepening my knowledge in **C++** & **Object-Oriented Programming (OOP)**
-- 🌱 Learning **GitHub** and **LinkedIn** networking strategies
+- 🌱- Improving my professional profile on **GitHub** and **LinkedIn**
 - 💡 Looking for exciting projects to contribute to
 - 🎓 Always learning and evolving
+- 🛠️ Algorithms and Problem Solving 
 
+---
+
+### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+- [Project 1 ( Stone - Paper - Scissor )](https://github.com/Hussam-jawad/Rock-Paper-Scissors)
+- [Project 2 ( Math Game )](https://github.com/Hussam-jawad/Math-Quiz-Game)
 ---
 
 ## 📫 Connect With Me
@@ -107,6 +93,26 @@ class HussamSkills {
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hussam-jawad&theme=radical" alt="GitHub Profile Details" width="65%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hussam-jawad&theme=radical" alt="Stats" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussam-jawad&theme=radical&utcOffset=3" alt="Productive Time" width="32%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hussam-jawad&theme=radical" alt="Repos Per Language" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hussam-jawad&theme=radical" alt="Most Commit Language" width="32%"/>
+
+</div>
+
+
+
+---
+
 <div align="center">
 
 ### 🌟 Thanks for visiting my profile!
@@ -119,6 +125,7 @@ class HussamSkills {
 
 <br>
 </div>
+
 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="80" alt="Wave"/>
