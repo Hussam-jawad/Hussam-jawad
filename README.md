@@ -47,15 +47,17 @@ class HussamSkills {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hussam-jawad&theme=radical" alt="GitHub Profile Details" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hussam-jawad&theme=radical" alt="GitHub Profile Details" width="65%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hussam-jawad&theme=radical" alt="Stats" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussam-jawad&theme=radical&utcOffset=3" alt="Productive Time" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hussam-jawad&theme=radical" alt="Stats" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussam-jawad&theme=radical&utcOffset=3" alt="Productive Time" width="32%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hussam-jawad&theme=radical" alt="Repos Per Language" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hussam-jawad&theme=radical" alt="Most Commit Language" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hussam-jawad&theme=radical" alt="Repos Per Language" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hussam-jawad&theme=radical" alt="Most Commit Language" width="32%"/>
 
 </div>
+
+
 
 ---
 
@@ -111,9 +113,13 @@ class HussamSkills {
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hussam-jawad&style=for-the-badge&color=00D9FF)
+<a href="https://github.com/Hussam-jawad">
+  <img src="https://komarev.com/ghpvc/?username=Hussam-jawad&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
+</a>
 
 <br>
+</div>
+
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="80" alt="Wave"/>
 
