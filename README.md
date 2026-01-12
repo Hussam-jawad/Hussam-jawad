@@ -50,14 +50,16 @@ class HussamSkills {
 - 🛠️ Algorithms and Problem Solving 
 
 ---
+### 💻 Featured Projects
 
-### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="130" />
 
-- [Project 1 ( Stone - Paper - Scissor )](https://github.com/Hussam-jawad/Rock-Paper-Scissors)
-- [Project 2 ( Math Game )](https://github.com/Hussam-jawad/Math-Quiz-Game)
-- [Project 3 ( personal-website )](https://github.com/Hussam-jawad/personal-website)
-- [Project 4 ( KundenAuftragssystem)](https://github.com/Hussam-jawad/KundenAuftragssystem)  
-  🟨 *(Vorbereitung auf die SAP-Anwendungsentwicklung (ABAP))*
+- [Project 1 (Stone - Paper - Scissor)](https://github.com/Hussam-jawad/Rock-Paper-Scissors)
+- [Project 2 (Math Game)](https://github.com/Hussam-jawad/Math-Quiz-Game)
+- [Project 3 (Personal Website)](https://github.com/Hussam-jawad/personal-website)
+- [Project 4 (KundenAuftragssystem)](https://github.com/Hussam-jawad/KundenAuftragssystem)  
+  🟨 *(Grundlagenprojekt mit Bezug zu Unternehmenssoftware – perspektivisch SAP / ABAP)*
+
 
 ---
 
